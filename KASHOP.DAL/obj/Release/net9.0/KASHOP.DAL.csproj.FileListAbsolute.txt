@@ -1,0 +1,15 @@
+C:\Users\mass\source\repos\KASHOP\KASHOP.DAL\bin\Release\net9.0\KASHOP.DAL.deps.json
+C:\Users\mass\source\repos\KASHOP\KASHOP.DAL\bin\Release\net9.0\KASHOP.DAL.runtimeconfig.json
+C:\Users\mass\source\repos\KASHOP\KASHOP.DAL\bin\Release\net9.0\KASHOP.DAL.dll
+C:\Users\mass\source\repos\KASHOP\KASHOP.DAL\bin\Release\net9.0\KASHOP.DAL.pdb
+C:\Users\mass\source\repos\KASHOP\KASHOP.DAL\obj\Release\net9.0\KASHOP.DAL.csproj.AssemblyReference.cache
+C:\Users\mass\source\repos\KASHOP\KASHOP.DAL\obj\Release\net9.0\KASHOP.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mass\source\repos\KASHOP\KASHOP.DAL\obj\Release\net9.0\KASHOP.DAL.AssemblyInfoInputs.cache
+C:\Users\mass\source\repos\KASHOP\KASHOP.DAL\obj\Release\net9.0\KASHOP.DAL.AssemblyInfo.cs
+C:\Users\mass\source\repos\KASHOP\KASHOP.DAL\obj\Release\net9.0\KASHOP.DAL.csproj.CoreCompileInputs.cache
+C:\Users\mass\source\repos\KASHOP\KASHOP.DAL\obj\Release\net9.0\KASHOP.DAL.sourcelink.json
+C:\Users\mass\source\repos\KASHOP\KASHOP.DAL\obj\Release\net9.0\KASHOP.DAL.dll
+C:\Users\mass\source\repos\KASHOP\KASHOP.DAL\obj\Release\net9.0\refint\KASHOP.DAL.dll
+C:\Users\mass\source\repos\KASHOP\KASHOP.DAL\obj\Release\net9.0\KASHOP.DAL.pdb
+C:\Users\mass\source\repos\KASHOP\KASHOP.DAL\obj\Release\net9.0\KASHOP.DAL.genruntimeconfig.cache
+C:\Users\mass\source\repos\KASHOP\KASHOP.DAL\obj\Release\net9.0\ref\KASHOP.DAL.dll

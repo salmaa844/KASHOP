@@ -4,6 +4,7 @@ using KASHOP.DAL.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -12,7 +13,10 @@ namespace KASHOP.BLL.Service
     public interface ICategoryService
     {
         Task<CategoryRequeste> CreateCategoryAsync(CategoryRequeste requeste);
-        public Task<List<CategoryResponse>> GetAllCategoriesAsync();
+         Task<List<CategoryResponse>> GetAllCategoriesAsync();
+         Task<CategoryResponse> GetCategoriesAsync(Expression<Func<Category, bool>> filter);
+         Task<bool> DeleteCategory(int id);
 
+         Task<CategoryTranslarionResponse> UpdateCategory(int id, UpdateCategoryTranslationRequest request);
     }
 }
